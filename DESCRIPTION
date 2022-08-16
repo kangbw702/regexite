@@ -13,3 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/kangbw702/regexite
+BugReports: https://github.com/kangbw702/regexite/issues
